@@ -6,3 +6,5 @@ statsborn
 statsbombpy
 mplsoccer
 streamlit
+
+streamlit==1.63.0
